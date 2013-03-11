@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
-import com.bo.ibookshelf.ui.IBookUIManager;
+import com.bo.ibookshelf.gui.IBookUIManager;
 
 /**
  * Author: Terry_Lei Date: 6:01:33 PM
